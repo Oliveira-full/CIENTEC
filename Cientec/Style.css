@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, serif;
+    background-image: url('https://recicleiros.org.br/wp-content/uploads/2023/05/recicla_campo-largo1.png.jpg');
+    background-position-x: bottom;
+    background-color: #5e5a5a;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #2bff00;
+}
+
+.question {
+    margin-bottom: 20px;
+    font-size: 40px;
+
+    color: #ffffff;
+
+}
+
+button {
+    padding: 20px;
+    margin: 10px;
+    background-color: #3ca70bf3;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+    background-clip: border-box;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+#result-image {
+width: 300px;
+height: auto;
+margin: 20px auto;
+display: block;
+max-width: 100%;
+}
+
+
+button:hover {
+    background-color: #b0b300;
+}
+
+#result {
+    font-size: 5em;
+    color: rgb(255, 0, 0);
+    margin-top: 20px;
+}
+
+
+
+
+
